@@ -1,5 +1,5 @@
 
-# Open-Source Audit: LibreOffice on Fedora 43
+# Open-Source Audit: LibreOffice on  Ubuntu 22.04 LTS
 
 **Student Name:** Naman Mehta</br>
 **Roll Number:** 24BAI10885  </br>
