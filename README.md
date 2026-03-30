@@ -19,7 +19,7 @@ GitHub Repository Structure
 ```bash
 oss-audit-24BAI10885/
 ├── README.md
-├── Project_Report.pdf
+├── oss-audit-24BAI10885
 ├── scripts/
 │   ├── script1_system_identity.sh
 │   ├── script2_package_inspector.sh
